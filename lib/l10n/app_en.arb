@@ -1,0 +1,97 @@
+{
+
+    "@@locale": "en",
+    "signInToWorkspace": "Sign in to your workspace",
+    "loginDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "rememberSession": "Remember session",
+    "signInButton": "Sign In",
+    "resetPasswordButton": "Reset Password",
+    "invalidEmail": "Invalid email",
+    "passwordMinLength": "Password must be at least 6 characters",
+    "enterValidEmail": "Please enter a valid email",
+    
+    "recoverPassword": "Recover Password",
+    "recoverPasswordDescription": "Enter your email and we'll send you instructions to reset your password.",
+    "sendInstructions": "Send Instructions",
+    "backToLogin": "Back to Login",
+    "resetEmailSent": "Reset instructions have been sent to your email",
+    "resetEmailError": "Could not send reset email",
+    "resetPasswordTitle": "Recover Account",
+
+    "appTitle": "COCOAPP",
+    "@appTitle": {
+        "description": "The application title"
+    },
+    "logout": "Logout",
+    "@logout": {
+        "description": "Logout button text"
+    },
+    "logoutTitle": "Sign Out",
+    "@logoutTitle": {
+        "description": "Logout dialog title"
+    },
+    "logoutConfirmation": "Are you sure you want to sign out?",
+    "@logoutConfirmation": {
+        "description": "Logout confirmation message"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Cancel button text"
+    },
+    "error": "Error",
+    "@error": {
+        "description": "Error title"
+    },
+    "logoutError": "Could not sign out. Please try again.",
+    "@logoutError": {
+        "description": "Logout error message"
+    },
+
+    "profileSettings": "Profile Settings",
+    "doctor": "Doctor",
+    "admin": "Admin",
+    "adminDoctor": "Admin/Doctor",
+    "accountSettings": "Account Settings",
+    "accountSettingsDescription": "Here you can change user account information",
+    "name": "Name",
+    "email": "Email",
+    "surname": "Surname",
+    "job": "Job",
+    "aboutMe": "About Me",
+    "aboutMeHint": "Tell something about yourself in 150 characters!",
+    "saveChange": "Save Change",
+    "changePassword": "Change Password",
+    "changePasswordDescription": "Here you can set user social password",
+    "oldPassword": "Old Password",
+    "oldPasswordHint": "Your Old Password",
+    "newPassword": "New Password",
+    "newPasswordHint": "Your New Password",
+    "newPasswordConfirmation": "New Password Confirmation",
+    "confirmPasswordHint": "Confirm Password",
+    "firstPage": "First Page",
+    "previousPage": "Previous Page",
+    "nextPage": "Next Page",
+    "lastPage": "Last Page",
+    "pagesCount": "{count, plural, =1{1 page} other{{count} pages}}",
+    "table": "Table",
+    "noData": "No data available",
+    "loading": "Loading...",
+    "totalPatients": "Total Patients",
+    "alerts": "Alerts",
+    "moodTerrible": "Terrible",
+    "moodVeryBad": "Very Bad",
+    "moodBad": "Bad",
+    "moodSomewhatBad": "Somewhat Bad",
+    "moodRegular": "Regular",
+    "moodSomewhatGood": "Somewhat Good",
+    "moodGood": "Good",
+    "moodVeryGood": "Very Good",
+    "moodExcellent": "Excellent",
+    "moodIncredible": "Incredible",
+    "moodPerfect": "Perfect",
+    "moodUnknown": "Unknown"
+
+    
+}

@@ -1,0 +1,6 @@
+[submodule "packages/api"]
+    path = packages/api
+    url = https://github.com/albermoon/ApiClientSiscocaPackage.git
+[submodule "packages/domain"]
+    path = packages/domain
+    url = https://github.com/albermoon/DomainSiscoca.git

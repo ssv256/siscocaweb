@@ -1,0 +1,11 @@
+targets:
+  $default:
+    builders:
+      build_web_compilers|entrypoint:
+        options:
+          dart2js_args:
+            - --no-minify
+            - --trust-primitives
+            - --trust-type-annotations
+            - --disable-type-inference
+            - --keep-names=health.*,carp_serializable.*

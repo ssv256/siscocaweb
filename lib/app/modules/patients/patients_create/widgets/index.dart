@@ -1,0 +1,10 @@
+export 'form/form_create_patient.dart';
+export 'form/form_create_constant_patient.dart';
+export 'form/form_create_pathology.dart';
+export 'form/form_create_procedures.dart';
+export 'form/form_create_medication.dart';
+export 'form/form_residual_lesions_patient.dart';
+export 'form/form_create_alert_thresholds.dart';
+export 'tab_form_nav.dart';
+export 'submit_button.dart';
+export 'vital_sing.dart';

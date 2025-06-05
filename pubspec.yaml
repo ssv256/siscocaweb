@@ -1,0 +1,63 @@
+name: siscoca
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.6.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  domain:
+    path: packages/domain
+  api:
+    path: packages/api
+  storage:
+    path: packages/storage
+  health:
+    git:
+      url: https://github.com/albermoon/Health.git
+      ref: main
+  flutter_heatmap_calendar:
+    git:
+      url: https://github.com/albermoon/flutter_heatmap_calendar.git
+      ref: main
+  research_package:
+    git:
+      url: https://github.com/albermoon/research.package.git
+  firebase_auth: ^5.3.1
+  firebase_auth_platform_interface: ^7.4.9
+  firebase_core: ^3.8.0
+  uuid: ^4.5.0
+  cupertino_icons: ^1.0.8
+  syncfusion_flutter_charts: ^28.2.5+1
+  provider: ^6.1.2
+  get: ^4.6.1
+  flutter_localization: ^0.2.3
+  intl: ^0.19.0
+  crypto: ^3.0.3
+  iconsax_flutter: ^1.0.0
+  fl_chart: ^0.68.0
+  flutter_svg: ^2.0.9
+  file_picker: ^6.1.1
+  get_storage: ^2.1.1
+  url_strategy: ^0.2.0
+  toastification: ^2.3.0
+  dropdown_search: ^5.0.6
+  date_picker_plus: ^4.0.0
+  flutter_masked_text2: ^0.9.1
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/images/
